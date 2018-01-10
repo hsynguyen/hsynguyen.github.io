@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cheat sheet
+title: Cheat sheet u
 ---
 # Latex
-$$a^2 + b^2 = c^2$$
+$a^2 + b^2 = c^2$
  
 # Code
 `code d`
