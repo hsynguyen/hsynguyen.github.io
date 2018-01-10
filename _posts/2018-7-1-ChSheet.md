@@ -7,7 +7,7 @@ background: '/img/posts/04.jpg'
 $$a^2 + b^2 = c^2$$
 
 
-\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
+$a^2 + b^2 = c^2$
  
 # Code
 `code d`
