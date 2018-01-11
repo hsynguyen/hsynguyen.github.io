@@ -9,9 +9,8 @@ $$a^2 + b^2 = c^2$$
 
 $a^2 + b^2 = c^2$
 
-$$
-a = \\sqrt{b^2 + c^3}
-$$
+$$ a = \\sqrt{b^2 + c^3} $$
 
+$$ \alpha $$
 # Code
 `code d`
