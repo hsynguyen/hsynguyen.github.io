@@ -16,4 +16,4 @@ $$ \alpha $$
 `code d`
 
 # Image
-![dinorsaur][/img/posts/01.jpg"Two dinorsaur"]
+![dinorsaur](/img/posts/01.jpg"Two dinorsaur")
