@@ -12,6 +12,8 @@ $a^2 + b^2 = c^2$
 $$ a = \\sqrt{b^2 + c^3} $$
 
 $$ \alpha $$
+$$ \sqrt{x} $$
+$$ a^2 = \sqrt{{a^2 + c^2}} $$
 # Code
 `code d`
 
