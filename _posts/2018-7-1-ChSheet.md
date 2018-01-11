@@ -14,3 +14,6 @@ $$ a = \\sqrt{b^2 + c^3} $$
 $$ \alpha $$
 # Code
 `code d`
+
+# Image
+![][/img/posts/01.jpg]
